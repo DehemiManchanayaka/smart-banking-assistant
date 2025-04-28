@@ -86,5 +86,10 @@
     "where are you from": "i'm based in the cloud but always close by to help.",
     "are you a human": "i'm not human, but i'm smart enough to assist you!",
     "do you sleep": "i\u2019m always awake and ready to help.",
-    "are you real": "as real as helpful can be!"
+    "are you real": "as real as helpful can be!",
+    "what are the types of accounts": "we offer savings, current, fixed deposit, and business accounts for different customer needs.",
+    "what is mobile banking": "mobile banking allows you to securely access and manage your bank accounts through a mobile app anytime, anywhere.",
+    "how do i open a joint account": "to open a joint account, both account holders must visit the branch with valid ids, proof of address, and complete a joint account application form.",
+    "where is the nearest atm": "you can find the nearest atm using our website atm locator tool or by contacting our customer support."
+   
 }
